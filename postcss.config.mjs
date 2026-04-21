@@ -1,3 +1,5 @@
+// postcss.config.mjs - PostCSS configuration for Tailwind CSS
+
 const config = {
   plugins: {
     "@tailwindcss/postcss": {},

@@ -1,3 +1,5 @@
+// app/layout.tsx - Root layout component for the Next.js app
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
